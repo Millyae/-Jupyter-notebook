@@ -21,4 +21,5 @@
 5. Запустите `tutu_analysis.ipynb`
 
 ## 🔧 Требования
-```pip install pandas numpy matplotlib seaborn jupyter 
+```bash
+pip install pandas numpy matplotlib seaborn jupyter 
