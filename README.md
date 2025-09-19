@@ -21,6 +21,6 @@
    file_path = "C:/___/___/___/Project/data/ha_data.csv" 
 5. Запустите `tutu_analysis.ipynb`
 
-## 🔧 Требования
+## Требования
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter 
